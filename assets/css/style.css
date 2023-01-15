@@ -38,18 +38,9 @@ a {
 }
 
 a:hover {
-  color: #3a97fb;
-  text-decoration: none;
-}
-
-/*
-BK_hover
-
-a:hover {
   color: #35e888;
   text-decoration: none;
 }
-*/
 
 h1, h2, h3, h4, h5, h6 {
   font-family: "Raleway", sans-serif;
@@ -117,6 +108,7 @@ h1, h2, h3, h4, h5, h6 {
 #header .social-links a:hover {
   background: #18d26e;
 }
+
 
 @media (max-width: 992px) {
   #header h1 {
